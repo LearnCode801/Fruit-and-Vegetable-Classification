@@ -46,9 +46,11 @@ This project uses a CNN optimized for image classification with the following ar
 The graphs below show the training and validation accuracy, as well as the loss across epochs:
 
 1. **Accuracy Graph**: This graph shows that both training and validation accuracy improve steadily over epochs, reaching over 90% by the end of training.
-   ![IMG](https://github.com/LearnCode801/Fruit-and-Vegetable-Classification/blob/main/result%201.png)
+   
+![IMG](https://github.com/LearnCode801/Fruit-and-Vegetable-Classification/blob/main/result%201.png)
 2. **Loss Graph**: The loss graph indicates a consistent decrease in both training and validation loss, demonstrating good convergence and minimal overfitting.
-   ![IMG](https://github.com/LearnCode801/Fruit-and-Vegetable-Classification/blob/main/result%202.png)
+   
+![IMG](https://github.com/LearnCode801/Fruit-and-Vegetable-Classification/blob/main/result%202.png)
 The model achieved high accuracy on the validation set, indicating strong performance on unseen data. 
 
 ### Confusion Matrix (Optional)
