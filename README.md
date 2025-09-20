@@ -2,6 +2,7 @@
 
 # Fruit and Vegetable Classification
 ## 🎬 Project Demo Video
+
 [![Watch Demo Video](https://drive.google.com/file/d/1wx3V4cPXXMXwgf7M_WhylRdPiJNWLFQz/view?usp=sharing)
 
 ## Project Overview
