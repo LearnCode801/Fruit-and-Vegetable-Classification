@@ -334,5 +334,3 @@ The normalized confusion matrix shows strong diagonal performance with minimal o
    - Check custom object dependencies
 
 ---
-
-**Note**: This model is trained on a specific dataset and may require retraining or fine-tuning for optimal performance on different image distributions or lighting conditions.
