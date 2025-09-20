@@ -1,6 +1,8 @@
 ---
 
 # Fruit and Vegetable Classification
+## 🎬 Project Demo Video
+[![Watch Demo Video](https://drive.google.com/file/d/1wx3V4cPXXMXwgf7M_WhylRdPiJNWLFQz/view?usp=sharing)
 
 ## Project Overview
 This project utilizes a Convolutional Neural Network (CNN) to classify images of 36 different fruits and vegetables. The model architecture is supported by MobileNetV2 preprocessing, along with robust data augmentation techniques to enhance the model's generalizability.
